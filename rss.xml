@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[1110 On The Parkway Medi-Spa]]></title>
+        <description><![CDATA[1110 On The Parkway Medi-Spa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 19:06:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>welcome to our new site! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af994300f6f5db9417960efbbcb4e0a2809f60c0.jpg"></article>]]></description>
+            <link>undefinedwelcome/index.html</link>
+            <guid isPermaLink="false">f0e12fb0-e172-45c2-bb66-257f3818a378</guid>
+            <pubDate>Tue, 02 Feb 2016 19:06:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
